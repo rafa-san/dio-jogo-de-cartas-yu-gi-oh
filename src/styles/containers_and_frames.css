@@ -6,9 +6,8 @@
 .rpgui-container {
   /* position style and default z */
   position: fixed;
-  z-index: 10;
-
   overflow: show;
+  z-index: 10;
 }
 
 /* game div with background image*/
