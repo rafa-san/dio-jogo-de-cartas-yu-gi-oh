@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Ri Happy - Front-end do Zero | #5 Jokenpô: Yu-Gi-Oh! Edition
+# Ri Happy - Front-end do Zero #5 | Jokenpô: Yu-Gi-Oh! Edition
 
 ## 1️⃣ Objetivo
 Desenvolver um jogo de Jokenpô inspirado no universo de Yu-Gi-Oh! utilizando CSS e JavaScript.
@@ -8,16 +8,10 @@ Desenvolver um jogo de Jokenpô inspirado no universo de Yu-Gi-Oh! utilizando CS
 ## 2️⃣ Descrição
 Este projeto foi realizado durante o Bootcamp **Ri Happy - Front-end do Zero**, oferecido pela **Digital Innovation One (DIO)**.
 
-O bootcamp inclui:
-
-- **Aulas teóricas:** com explicações e exercícios práticos.
-- **Desafios de código:** para aplicar os conceitos ensinados.
-- **Projetos guiados com mentoria:** para enriquecer o portfólio com projetos práticos.
-
 A atividade foi conduzida pelo instrutor **Felipe Aguiar**, que apresentou, entre outros conceitos:
 
-- Estruturação de arquivos.
-- Organização de states com JavaScript puro.
+- Estruturação de arquivos;
+- Organização de states com JavaScript puro;
 - Criação de funções reaproveitáveis.
 
 ## 3️⃣ Principais Modificações
@@ -36,7 +30,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao instrutor Felipe Aguiar e à equipe da DIO pelo conteúdo de alta qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
+Agradeço ao instrutor **Felipe Aguiar** e à equipe da **DIO** pelo conteúdo de altíssima qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
